@@ -1,0 +1,116 @@
+[
+  {
+    "id": "occhiale1.1",
+    "name": "occhiale",
+    "price": 9.99,
+    "category": "Marca1",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+  {
+    "id": "occhiale1.2",
+    "name": "occhiale",
+    "price": 4.99,
+    "category": "Marca1",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": true,
+    "new": false
+  },
+  {
+    "id": "occhiale1.3",
+    "name": "occhiale",
+    "price": 2.49,
+    "category": "Marca1",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+  {
+    "id": "occhiale1.4",
+    "name": "occhiale",
+    "price": 14.99,
+    "category": "Marca1",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": true,
+    "new": false
+  },
+  {
+    "id": "occhiale1.5",
+    "name": "occhiale",
+    "price": 7.99,
+    "category": "Marca1",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+  {
+    "id": "occhiale1.6",
+    "name": "occhiale",
+    "price": 4.49,
+    "category": "Marca1",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+
+
+
+
+  {
+    "id": "occhiale2.1",
+    "name": "occhiale",
+    "price": 8.0,
+    "category": "Marca2",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+  {
+    "id": "occhiale2.2",
+    "name": "occhiale",
+    "price": 18.0,
+    "category": "Marca2",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": true,
+    "new": false
+  },
+  {
+    "id": "occhiale2.3",
+    "name": "occhiale",
+    "price": 27.0,
+    "category": "Marca2",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+  {
+    "id": "occhiale2.4",
+    "name": "occhiale",
+    "price": 40.0,
+    "category": "Marca2",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": false,
+    "new": false
+  },
+  {
+    "id": "occhiale2.5",
+    "name": "occhiale",
+    "price": 60.0,
+    "category": "Marca2",
+    "image": "placeholder.png",
+    "description": "Occhiale di Esempio",
+    "evidenza": true,
+    "new": false
+  }
+]
