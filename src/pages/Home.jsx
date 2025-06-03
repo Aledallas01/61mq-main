@@ -4,6 +4,7 @@ import React from "react";
 import products from "../data/products.json";
 
 import Servizi from "../components/Servizi.jsx";
+import DoveTrovarci from "../components/DoveTrovarci.jsx";
 import ProdottiInEvidenza from "../components/Evidenza.jsx";
 import NovitàInNegozio from "../components/novita.jsx";
 
@@ -51,6 +52,9 @@ export default function Home() {
 
       {/* Novità in Negozio */}
       <NovitàInNegozio />
+
+      {/* Dove Trovarci */}
+      <DoveTrovarci />
     </main>
   );
 }
