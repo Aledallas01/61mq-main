@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Contatti() {
+export default function ComeTrovarci() {
   return (
     <section id="contatti" className="contatti-section">
       <h2 className="text-3xl font-bold mb-6">📍 Dove ci trovi</h2>
